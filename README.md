@@ -2,11 +2,11 @@ Certainly! Here's a README file for the IIT-PREDICTOR project on GitHub:
 
 # IIT-PREDICTOR
 
-IIT-PREDICTOR is a web application that predicts the chances of admission into Indian Institutes of Technology (IITs) based on JEE Main and Advanced scores. It aims to assist students in understanding their likelihood of getting admitted to the prestigious IITs and helps them make informed decisions about their academic future.
+IIT-PREDICTOR is a web application that predicts the chances of admission into Indian Institutes of Technology (IITs) based on JEE Advanced scores. It aims to assist students in understanding their likelihood of getting admitted to the prestigious IITs and helps them make informed decisions about their academic future.
 
 ## Features
 
-- Predicts admission chances: The application uses machine learning algorithms to predict the chances of admission into IITs based on JEE Main and Advanced scores.
+- Predicts admission chances: The application predict the chances of admission into IITs based on JEE Main and Advanced scores.
 - Multiple IIT predictions: Users can get predictions for various IITs and courses to explore different options.
 - User-friendly interface: The web application provides an intuitive and user-friendly interface for inputting scores and viewing predictions.
 - Data visualization: The application provides graphical representations of data to help users understand the prediction results effectively.
@@ -16,8 +16,10 @@ IIT-PREDICTOR is a web application that predicts the chances of admission into I
 
 We would like to thank the following contributors for their valuable contributions to IIT-PREDICTOR:
 
-- John Doe ([@johndoe](https://github.com/johndoe))
-- Jane Smith ([@janesmith](https://github.com/janesmith))
+- Alexander([@alexravi](https://github.com/alexravi))
+- Sravya Vardhini([@SravyaVardhani](https://github.com/SravyaVardhani))
+- Likitha ([@Suppu2004](https://github.com/Suppu2004))
+- Shinjini ([@shinjini72](https://github.com/shinjini72))
 - Gayatri([@Gayathri1073](https://github.com/Gayathri1073))
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
@@ -81,11 +83,11 @@ Follow these steps to set up IIT-PREDICTOR locally:
 
 7. Access the application:
 
-   Open a web browser and go to `http://localhost:5000` to access the IIT-PREDICTOR application locally.
+   Open a web browser and go to `http://localhost:8000` to access the IIT-PREDICTOR application locally.
 
 ## Usage
 
-1. Input your JEE Main and Advanced scores into the provided fields.
+1. Input your JEE Advanced scores into the provided fields.
 2. Select the desired IIT and course for prediction.
 3. Click the "Predict" button to view the chances of admission.
 
